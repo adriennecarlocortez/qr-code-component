@@ -2,4 +2,4 @@
 
 Desktop and Mobile View
 
-![Desktop and Mobile View](/public/images/desktop-view.png)
+![Desktop and Mobile View](/public/images/view.png)
