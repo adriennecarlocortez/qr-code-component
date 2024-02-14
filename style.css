@@ -153,6 +153,11 @@ svg {
   margin-inline: auto;
 }
 
+/* padding-top 1.25rem */
+.pt-25 {
+  padding-top: 1rem;
+}
+
 /* components */
 
 /* div container */
@@ -170,7 +175,7 @@ svg {
   text-align: center;
 }
 
-/* div even margin */
+/* div even margin for centered card */
 /* .even-margin {
   position: fixed;
   top: 50%;
@@ -197,5 +202,4 @@ svg {
 /* body paragraph */
 .card-p {
   color: var(--clr-grayish-blue);
-  padding-top: 1.25rem;
 }
