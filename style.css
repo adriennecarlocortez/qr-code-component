@@ -195,8 +195,3 @@ svg {
   color: var(--clr-grayish-blue);
   padding-top: 1.25rem;
 }
-
-/* footer paragraph */
-.footer-p {
-  padding-top: 0.5rem;
-}
